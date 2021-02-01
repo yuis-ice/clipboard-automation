@@ -3,6 +3,8 @@
 
 ✓ This is beta version release and under some bugs
 
+✕ I noticed **this app doesn't work** because of the code `IOWebSocketChannel.connect(Uri.parse('ws://192.168.0.110:4444'));` in `lib/main.dart`. You/I need to correct the IP to your own LAN IP, then rebuild. I'll fix this issue in comming days.
+
 <!-- ![http://yuis.xsrv.jp/data/Screenshot_20210202-013526.png](http://yuis.xsrv.jp/data/Screenshot_20210202-013526.png) -->
 <!-- ![http://yuis.xsrv.jp/data/Screenshot_20210202-013529.png](http://yuis.xsrv.jp/data/Screenshot_20210202-013529.png) -->
 <img src="http://yuis.xsrv.jp/data/Screenshot_20210202-013526.png" width="250"/>
