@@ -6,6 +6,7 @@
 lib/.main.dart
 lib/.*.dart
 tmp/*
+**/node_modules/
 
 #
 # [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.toptal.com/developers/gitignore)
