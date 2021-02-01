@@ -19,7 +19,7 @@
 
 - For android
 
-Download and install the apk onto your Android phone here: [https://github.com/yuis-ice/clipboard-automation/releases/download/tmp/app.apk](app.apk)
+Download and install the apk onto your Android phone here: [app.apk](https://github.com/yuis-ice/clipboard-automation/releases/download/tmp/app.apk)
 
 - For your PC
 
