@@ -43,6 +43,17 @@ nvm install v13.10.1
 node -v
 ```
 
+## Build apk from source code
+
+Install Flutter first, then:
+
+```sh
+git clone https://github.com/yuis-ice/clipboard-automation.git
+cd clipboard-automation
+flutter clean
+flutter build apk
+```
+
 ## (misc)
 
 This repo is currently review version and mainly for my acquaintance rather than part of my portfolio. please kindly not to share the repo publicly for now.
